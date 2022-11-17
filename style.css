@@ -15,7 +15,16 @@ nav a:hover {
 }
 
 body {
-    background-image:url("imagens/fundo33.jpg");
+    background-image:url("imagens/download.png");
+    margin: 0;
+    padding: 0;
+    line-height: 1.5;
+    text-align: center;
+    font-family: sans-serif;
+    background-size: 100%;
+    background-repeat:no-repeat;
+    background-attachment: fixed;    
+    background-position: right top;
 }
 
 #capa {
