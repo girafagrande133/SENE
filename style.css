@@ -22,7 +22,7 @@ nav li {
 }
 
 nav a {
-    color: rgba(0, 0, 0, 0);
+    color: white;
     text-transform: uppercase;
     font-weight: bold;
     font-size: 18px;
@@ -36,7 +36,7 @@ nav a:hover {
     padding: 0 0 0 0;
 }
 td a {
-    color: black;
+    color: red;
     font-size: 1.05em;
     text-decoration: underline;
     padding: 0 0 0 0;
